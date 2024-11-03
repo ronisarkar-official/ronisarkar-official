@@ -10,17 +10,17 @@
 ---
 
 ## 💼 About Me
-- 🎓 Currently learning **Web Development** and **Database Management**.
-- 🔭 Working on a **Library Management System** project [here](https://mcet.tanumart.com/).
-- 💡 Interested in **JavaScript**, **PHP**, **SQL**, and **CSS**.
-- 🎯 Fun fact: I love solving puzzles, telling jokes, and creating unique web designs!
+- 🎓 Passionately learning **Web Development**, **Database Management**, and **Software Engineering**.
+- 🔭 Currently working on a full-stack **Library Management System** [here](https://mcet.tanumart.com/).
+- 💡 Exploring **JavaScript**, **PHP**, **SQL**, **CSS**, and expanding into **React** and **Node.js**.
+- 🎯 Fun fact: I love solving puzzles, telling jokes, and crafting unique web experiences!
 
 ---
 
 ## 🌐 Connect with Me
 <p align="center">
-  <a href="https://linkedin.com/in/roni-sarkar-3b75a5303"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-  <a href="https://x.com/ExplorersTalks"><img src="https://img.shields.io/badge/-Twitter-blue?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/roni-sarkar-3b75a5303"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+  <a href="https://x.com/ExplorersTalks"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
   <a href="mailto:ronisarkar10938@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
@@ -33,6 +33,9 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
 </p>
 
 ---
@@ -59,22 +62,19 @@
 
 ---
 
-## 🎯 Currently Working On
-- 📘 Building a full-stack **Library Management System**.
-- 📂 Strengthening skills in **Object-Oriented Programming** with **C++**.
-- 📝 Exploring the latest in **Web Development** trends and technologies.
+## 🎯 Current Projects
+- 📘 Developing a feature-rich **Library Management System**.
+- 📂 Strengthening Object-Oriented Programming in **C++**.
+- 📝 Diving into **Web Development** with modern tech stacks like **React** and **Node.js**.
 
 ---
 
-## 🌱 What I'm Learning Next
-- 📚 Mastering **React** for dynamic front-end development.
-- 💻 Diving into **Node.js** and **Express** for backend development.
-- 🔒 Implementing **authentication** and **security best practices** in web apps.
+## 🌱 Next Goals
+- 🚀 Mastering **React** for interactive front-end experiences.
+- 💻 Exploring **Node.js** and **Express** for backend development.
+- 🔒 Focusing on web security best practices and user authentication.
 
 ---
 
 ## 💡 Fun Fact
-> "Programming isn't about what you know; it's about what you can figure out." - Chris Pine
-
----
-
+> "Programming isn't about what you know; it's about what you can figure out." – Chris Pine
