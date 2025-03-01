@@ -17,7 +17,6 @@
 - 🎓 Passionate about **Web Development**, **Database Management**, and **Software Engineering**.
 - 🔭 Currently building a full-stack **Library Management System** [here](https://mcet.tanumart.com/).
 - 💡 Exploring **JavaScript**, **PHP**, **SQL**, **CSS**, **React**, and **Node.js**.
-- 🎬 Creator of **FairyFlare Tales**, a YouTube channel for animated storytelling.
 - 🌍 Owner of **Explorerstalks.com**, sharing tech insights and trends.
 - 🎯 Preparing for **WB JECA 2025** to pursue a Master’s in Computer Applications.
 - 💻 Enthusiast in **C, C++, Java, Python, and **Kali Linux**.
