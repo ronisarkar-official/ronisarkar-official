@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ronisarkar-official&base=1207&color=blue&style=flat-square" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=ronisarkar-official&abbreviated=true&base=1207&color=blue&style=flat-square" alt="Profile views" />
 </p>
 
 ---
