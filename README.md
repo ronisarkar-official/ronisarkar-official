@@ -19,7 +19,7 @@
 - 💡 Exploring **JavaScript**, **PHP**, **SQL**, **CSS**, **React**, and **Node.js**.
 - 🌍 Owner of **Explorerstalks.com**, sharing tech insights and trends.
 - 🎯 Preparing for **WB JECA 2025** to pursue a Master’s in Computer Applications.
-- 💻 Enthusiast in **C, C++, Java, Python, and **Kali Linux**.
+- 💻 Enthusiast in C, C++, Java, Python, and **Kali Linux**.
 - 🏆 Always eager to solve challenges and create engaging web experiences!
 
 ---
