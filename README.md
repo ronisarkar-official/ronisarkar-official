@@ -43,8 +43,8 @@
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ronisarkar-official&show_icons=true&theme=radical&hide_border=true&count_private=true" width="45%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronisarkar-official&layout=compact&theme=radical&hide_border=true" width="45%">
+  <img src="https://github-readme-stats.vercel.app/api?username=ronisarkar-official&show_icons=true&theme=radical&hide_border=true&count_private=true" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronisarkar-official&layout=compact&theme=radical&hide_border=true" width="45%" />
 </div>
 
 ---
@@ -64,20 +64,24 @@
 ---
 
 ## 🎯 Current Projects
-- 📘 Building a feature-rich **Library Management System**.
-- 🛠️ Strengthening **Object-Oriented Programming** in C++.
-- 🌍 Advancing my **Web Development** skills with **React & Node.js**.
-- 🔒 Enhancing web security and authentication systems.
+
+- ✅ Completed a full-stack **Library Management System** with login/register, admin dashboard, and book management → [Live Demo](https://mcet.free.nf/)  
+- 🧠 Practicing **Object-Oriented Programming** in **C++** with hands-on coding exercises.  
+- 🌐 Enhancing **Web Development** skills using **React.js**, **Tailwind CSS**, and **Node.js**.  
+- 🔐 Deep diving into **web security**: password hashing, form validation, and session control.  
+- 📝 Publishing tutorials and articles on **[SpecHype.com](https://www.spechype.com)** to help fellow learners.
 
 ---
 
 ## 🌱 Next Goals
-- 🚀 Mastering **React.js** for front-end development.
-- 💻 Diving deeper into **Node.js** & **Express**.
-- 🔒 Implementing **web security** best practices.
-- 🎥 Experimenting with **interactive animations** and **motion UI**.
-- 📈 Optimizing **Explorerstalks.com** with engaging content.
-- 🎮 Exploring **game development** with JavaScript and Python.
+
+- ⚛️ Master advanced **React.js** (custom hooks, state management, reusable components).  
+- 🧩 Build RESTful APIs with **Node.js** and **Express.js**, including middleware and error handling.  
+- 🛡️ Implement secure **authentication systems** (JWT, OAuth2, session/cookie-based auth).  
+- 🎨 Add **interactive animations** and **motion UI** using libraries like **Framer Motion** and **GSAP**.  
+- 🚀 Optimize **Explorerstalks.com** for performance, mobile UX, and search engine visibility.  
+- 🎮 Kickstart **game development** projects using **JavaScript** and **Python** with a focus on logic and interactivity.  
+
 
 ---
 
