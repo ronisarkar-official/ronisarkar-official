@@ -47,7 +47,7 @@
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ronisarkar-official&theme=onedark&no-frame=true&margin-w=5&row=1" alt="GitHub Trophies"/>
+  <img src="https://github-trophies.vercel.app/?username=ronisarkar-official&theme=algolia&no-frame=true&row=1&column=6" />
 </p>
 
 ---
