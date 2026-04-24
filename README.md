@@ -8,16 +8,6 @@
   <img src="https://komarev.com/ghpvc/?username=ronisarkar-official&label=Profile%20Views&color=blue&style=flat-square" alt="Profile views" />
 </p>
 
-<p align="center">
-  <a href="https://www.buymeacoffee.com/ronisarkar" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="200" />
-  </a>
-</p>
-
-
-
-
-
 ---
 
 ## 🚀 About Me
