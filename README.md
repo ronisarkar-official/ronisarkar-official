@@ -1,7 +1,7 @@
 
 <h1 align="center">Hey there, I'm Roni Sarkar! 👋</h1>
 <p align="center">
-  <b>🚀 Student | Aspiring Developer | Tech Enthusiast</b>
+  <b>💻 MCA Student | Full-Stack Developer | Software Engineering Aspirant</b>
 </p>
 
 <p align="center">
@@ -11,21 +11,39 @@
 ---
 
 ## 🚀 About Me
-- 🎓 Passionate about **Web Development**, **Database Management**, and **Software Engineering**.
-- 🔭 Currently building a full-stack **NextJs Blog Site** [here](https://ronis-blog.vercel.app).
-- 💡 Exploring **JavaScript**, **PHP**, **TypeScript**, **NextJs**, **React**, and **Node.js**.
-- 🌍 Owner of **spechype.com**, sharing tech insights and trends.
-- 🎯 Preparing for **WB JECA 2025** to pursue a Master’s in Computer Applications.
-- 🏆 Always eager to solve challenges and create engaging web experiences!
+
+- 🎓 MCA student with a strong focus on **Full-Stack Web Development**, **Software Engineering**, and **Modern Web Technologies**.  
+- 💻 Currently learning and building projects using the **MERN Stack** (**MongoDB, Express.js, React.js, Node.js**).  
+- 🔭 Working on **real-world web applications**, including chat systems, AI-powered projects, and scalable full-stack solutions.  
+- 🌐 Founder of **spechype.com**, a platform focused on gaming content, system requirements, and SEO-driven web publishing.  
+- ⚡ Skilled in **JavaScript**, **React.js**, **PHP**, **Tailwind CSS**, **Next.js**, and backend development fundamentals.  
+- 🛡️ Expanding knowledge in **Cybersecurity**, **Kali Linux**, and secure application development practices.  
+- 🎯 Focused on improving **DSA**, problem-solving ability, and interview-ready coding skills.  
+- 🚀 Passionate about building responsive, performance-optimized, and user-focused digital experiences.  
 
 ---
 
 ## 🌐 Connect with Me
+
 <p align="center">
-  <a href="https://linkedin.com/in/ronisarkar"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-  <a href="https://x.com/ronisarkarDev"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
-  <a href="mailto:ronisarkar10938@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.youtube.com/@skillglitch"><img src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+  <a href="https://roni-sarkar.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://linkedin.com/in/ronisarkar">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://x.com/ronisarkarDev">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="mailto:ronisarkar10938@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/ronisarkar">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.youtube.com/@skillglitch">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+  </a>
 </p>
 
 ---
@@ -83,7 +101,7 @@ explore, post, like, and comment on visual content  → [Live Demo](https://pixi
 
 ## 🔥 GitHub Streak
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ronisarkar-official&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ronisarkar-official&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 
