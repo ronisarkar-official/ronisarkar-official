@@ -50,7 +50,7 @@
 
 ## 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,react,tailwind,threejs,nodejs,nextjs,typescript,mongodb,express" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,react,tailwind,threejs,nodejs,nextjs,typescript,mongodb,express,supabase,sentry" />
 </p>
 
 ---
